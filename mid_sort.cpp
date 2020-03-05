@@ -167,7 +167,6 @@ int main(){
 
     cout<<"\nThis Program created by \n";
     cout<<" Okky Dwi Triferyawan    \n";
-    cout<<"     012201800005     \n";
 
     while(true)
     {

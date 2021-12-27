@@ -77,11 +77,11 @@ void linear() {
 }
 
 void binary() {
-
-    int c, i, num, first, last, middle;
+	
+    	int c, i, num, first, last, middle;
 	cout << "\nEnter the array size : " ;
-    cin >> c;
-    int Array[c];
+    	cin >> c;
+    	int Array[c];
 
 	for(i=0; i<c; i++)
 	{
@@ -89,7 +89,7 @@ void binary() {
         cin >> Array[i];
 	}
 	cout << endl << "Enter the number that you want to search : ";
-    cin >> num;
+    	cin >> num;
 
 	first = 0;
 	last = c - 1;
